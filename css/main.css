@@ -1,0 +1,39 @@
+html {
+  color: #222;
+  font-size: 1em;
+  line-height: 1.4;
+}
+body {
+  background-image: url('../img/me.jpg');
+  background-repeat: no-repeat;
+  background-size: 39% 100%;
+  background-attachment: fixed;
+  background-position: right;
+}
+.footer{
+  position:fixed;
+  bottom: 0;
+  border: 1px solid black;
+  background-color: #ffffff;
+  width:100%;
+  /*opacity: 0.5;*/
+}
+h1.who_am_i{
+  font-family: "Times New Roman", sans-serif;
+  color: red;
+}
+p.who_am_i{
+  font-family: "Times New Roman", sans-serif;
+  font-size: 21px;
+}
+/*top, right, bottom, left*/
+div.who_am_i{
+  padding: 25px 25px 2px 50px;
+}
+div.para{
+  padding: 2px 25px 2px 50px;
+}
+nav.para{
+  font-family: "Times New Roman", sans-serif;
+  font-size: 21px;
+}

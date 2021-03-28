@@ -1,0 +1,46 @@
+body {
+    background-image: url('../img/food.jpg');
+    background-repeat: no-repeat;
+    background-size: 39% 100%;
+    background-attachment: fixed;
+
+}
+.glimpse{
+    background-color: #f2f2f2;
+    border: 1px solid #cccccc;
+    clear: left;
+    font-family: 'Zilla Slab', sans-serif;
+    border-collapse: collapse;
+    color: #3a3a3a;
+    float: right;
+    padding: 0.04em;
+    width:34em;
+    text-align: left;
+    font-size: 18px;
+    margin-right: 7em;
+}
+.table_surr{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.synopsis{
+    text-align:left;
+    color: black;
+    float:right;
+    clear: left;
+    margin-right: 1.5%;
+    margin-left: 45%;
+    margin-top:2%;
+    font-size: 21px;
+    background-color: white;
+    opacity: 0.9;
+    padding-left: 0.2em;
+}
+.footer{
+    position:fixed;
+    bottom: 0;
+    border: 1px solid black;
+    background-color: #ffffff;
+    width:100%;
+    /*opacity: 0.5;*/
+}
